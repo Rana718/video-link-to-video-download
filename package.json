@@ -12,12 +12,16 @@
   "dependencies": {
     "autoprefixer": "^10.4.19",
     "axios": "^1.7.2",
+    "child_process": "^1.0.2",
     "cors": "^2.8.5",
     "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
     "postcss": "^8.4.39",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwindcss": "^3.4.4",
+    "url": "^0.11.3",
     "ytdl-core": "^4.11.5"
   },
   "devDependencies": {
